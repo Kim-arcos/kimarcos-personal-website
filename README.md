@@ -1,2 +1,2 @@
 # kimarcos-personal-website
-Reliable, trustworthy, and Willing to Learn
+Reliable, Trustworthy, and Open-minded
