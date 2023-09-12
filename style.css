@@ -1,5 +1,13 @@
-element.style{
+element.style {
 
+}
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+    background:rgb(103, 135, 206)
+}
+header, footer{
+    background: rgb(111, 128, 204);
 }
 footer a {
     margin-right: 64px;
@@ -7,6 +15,12 @@ footer a {
 
 * {
     box-sizing: border-box;
+}
+:root {
+    view-transition-name: root;
+}
+html {
+    display: block;
 }
 a:-webkit-any-link {
     color: -webkit-link;
@@ -25,9 +39,9 @@ footer {
     box-shadow: 0 -2px 4px -2px black;
 }
 body {
-    background: rgb(89, 148, 182);
+    background: rgb(202, 210, 214);
     max-width: 960px;
-    color: #6f4894;
+    color: #31233f;
     margin: 0 auto;
 }
 html {
