@@ -139,11 +139,12 @@ textarea{
     box-sizing: border-box;
 }
 button{
-    background: #1c00b5;
+    background: rgb(138, 195, 233);
     width: 100px;
     border:none;
     outline: none;
-    color: #fff;
+    color: #000000;
+    font-weight: bolder;
     height: 35px;
     border-radius: 30px;
     margin-top: 20px;
