@@ -10,10 +10,10 @@ link {
 html {
     font-family: sans-serif;
     font-size: 16px;
-    background: lightsteelblue;
+    background: rgb(164, 191, 226);
 }
 body {
-    background-color: rgb(136, 103, 211);
+    background-color: rgb(136, 116, 182);
     max-width: 960px;
     color: black;
     margin:auto;
@@ -27,7 +27,7 @@ body {
 html {
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
-    background: whitesmoke;
+    background: rgb(163, 127, 184);
 }
 .name {
     float: left;
